@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>CV SARIPUDIN</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">   
+    <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    
+    <section id="container">
+        <header>
+            <div id="logo">
+                <h2>SARIPUDIN</h2>
+                <h2>WEB DEVELOPER</h2>
+            </div>
+            
+            <div class="social-icons-container"> 
+               <span class="socials-text"> 
+                <button class="pulse-button">
+                    <i class="fa fa-share"></i>
+                </button>
+                </span> 
+                
+                <ul class="socialicons">
+                    <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                    <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                    <li><a href=""><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href=""><i class="fa fa-whatsapp"></i></a></li>
+                </ul>
+            </div>
+            
+        </header>
+        
+        <section id="content">
+            <div id="profile">
+                <div class="about">
+                    <div class="photo-inner">
+                        <ul>
+                            <li><img src="img/photo.jpg" alt=""></li>
+                            
+                        </ul>
+                    </div>
+                    <h1>SARIPUDIN</h1>
+                    <h3>WEB DEVELOPER</h3>
+                    <br>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae harum placeat, blanditiis expedita id ad, facilis nesciunt possimus quibusdam ut distinctio iusto tempora error neque assumenda. 
+                    </p>
+                </div>
+                
+                <ul class="personal-info">
+                   <li><label>Name</label><span>Saripudin</span></li>
+                   <li><label>Birthday</label><span>November 15, 1995</span></li>
+                   <li><label>Address</label><span>Jurang Mangu Timur Pondok Aren, Tangerang Selatan</span></li>
+                   <li><label>Email</label><span class="word-wrap">Sarippudin1511@gmail.com</span></li>
+                   <li><label>Phone</label><span>+62 819 4360 0164</span></li>
+                   <li><label>Gender</label><span>Male</span></li>
+                   <li><label>Martial Status</label><span>Single</span></li>
+                   <li><label>Religion</label><span>Moeslim</span></li>
+                </ul>
+            </div>
+            
+            <nav class="menu">
+                <ul class="tabs">
+                    
+                    <li class="tmenu">
+                        <a href="#profile" class="tab-profile active">
+                            <i><i class="fa fa-user"></i></i>
+                            PROFILE
+                        </a>
+                    </li>
+                         
+                    <li class="tmenu">
+                          <a href="#resume">
+                            <i><i class="fa fa-wpexplorer"></i></i>
+                            RESUME
+                        </a>
+                    </li>
+                         
+                    <li class="tmenu">
+                          <a href="#portfolio" >
+                            <i><i class="fa fa-eercast"></i></i>
+                            PORTFOLIO
+                        </a>
+                    </li>
+                    
+                    <li class="tmenu">
+                          <a href="#contact">
+                            <i><i class="fa fa-telegram"></i></i>
+                            CONTACT
+                        </a>
+                     </li>
+                     
+                </ul>
+            </nav>  
+            
+              <section id="resume">
+                  <div class="timeline-section">
+                      <div class="main-wrapper-resume">
+                          <div class="carttitle-wrapper">
+                              <div class="color-box">
+                                  <button id="red-color" class="btn-style"></button>
+                                  <button id="yellow-color" class="btn-style"></button>
+                                  <button id="blue-color" class="btn-style"></button>
+                                  <button id="green-color" class="btn-style"></button>
+                                  <button id="setting-icon" class="btn-style">
+                                      <i class="fa fa-cog fa-spin"></i>
+                                  </button>
+                              </div>
+                              <div class="container no-padding">
+                                  <div class="row no-margin">
+                                      <div class="col-md-6 no-padding bg-color-left">
+                                         <div class="left-name bg-color-1">
+                                              <h2>Saripudin</h2>
+                                              
+                                              <h5>Web Developer</h5>
+                                              <p>
+                                                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere officia ullam vel nesciunt ex, sint, expedita totam laboriosam quam debitis officiis! Sapiente ullam labore veritatis, repellendus, officiis suscipit facere cumque!
+                                              </p>
+                                          </div> 
+                                        
+                                          <div class="left-address">
+                                              <ul>
+                                                  <li><span class="text-color">Phone No</span>+6281943600164</li>
+                                                  
+                                                  <li><span class="text-color">Address</span>Jurang Mangu Pondok Aren, Tangerang Selatan</li>
+                                                  
+                                                  <li><span class="text-color">Email</span>sarippudin1511@gmail.com</li>
+                                              </ul>
+                                          </div>
+                                        
+                                          
+                                          <div class="ex-heading">
+                                              <h2>Experience</h2>
+                                          </div>
+                                          
+                                          <div class="ex-box">
+                                              <h2>2017</h2>
+                                              <h4>Internship</h4>
+                                              <p>
+                                                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat excepturi dicta quasi dolorem accusantium omnis labore voluptatibus sint quae consectetur. Alias fugiat quidem temporibus similique maiores, perspiciatis quia esse quam.
+                                              </p>
+                                          </div>
+                                          
+                                           <div class="ex-box">
+                                              <h2>2013</h2>
+                                              <h4>Internship</h4>
+                                              <p>
+                                                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat excepturi dicta quasi dolorem accusantium omnis labore voluptatibus sint quae consectetur. Alias fugiat quidem temporibus similique maiores, perspiciatis quia esse quam.
+                                              </p>
+                                            </div>
+                                      </div>
+                                 
+                                  
+                                  <div class="col-md-6 no-padding bg-color-right">
+                                      <div class="top-skills">
+                                          <div class="skill-name">
+                                              <div class="sn">PS</div>
+                                          </div>
+                                          
+                                          <ul>
+                                              <li></li>
+                                              <li></li>
+                                              <li></li>
+                                              <li></li>
+                                              <li></li>
+                                          </ul>
+                                          
+                                          <div class="top-skills">
+                                          <div class="skill-name">
+                                              <div class="sn">AI</div>
+                                          </div>
+                                          
+                                          <ul>
+                                              <li></li>
+                                              <li></li>
+                                              <li></li>
+                                              <li></li>
+                                              <li></li>
+                                          </ul>
+                                          
+                                          <div class="skill-name">
+                                              <div class="sn">S</div>
+                                          </div>
+                                          
+                                          <ul>
+                                              <li></li>
+                                              <li></li>
+                                              <li></li>
+                                              <li></li>
+                                              <li></li>
+                                          </ul>
+                                          
+                                          <div class="skill-name">
+                                              <div class="sn">S</div>
+                                          </div>
+                                          
+                                          <ul>
+                                              <li></li>
+                                              <li></li>
+                                              <li></li>
+                                              <li></li>
+                                              <li></li>
+                                          </ul>
+                                           </div>
+                                           </div>
+                                           
+                                           <div class="right-skills">
+                                               
+                                                <div class="row no-margin ">
+                                                   <div class="col-md-12 heading-skills no-padding">
+                                                       <h3>MY SKILLS</h3>
+                                                    </div>
+                                                 </div>
+                                                 
+                                                 <div class="row no-margin">
+                                                   <div class="col-md-5 no-padding">
+                                                       <h3>PHOTOSHOP</h3>
+                                                    </div>
+                                                    <div class="col-md-7 no-padding">
+                                                        <div class="progress">
+                                                            <div class="progress-bar bg-waring progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%"></div>
+                                                        </div>
+                                                    </div>
+                                                   </div> 
+                                                   
+                                                   <div class="row no-margin">
+                                                   <div class="col-md-5 no-padding">
+                                                       <h3>ILLUSTRATOR</h3>
+                                                    </div>
+                                                    <div class="col-md-7 no-padding">
+                                                        <div class="progress">
+                                                            <div class="progress-bar bg-waring progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%"></div>
+                                                        </div>
+                                                    </div>
+                                                   </div> 
+                                                   
+                                                   <div class="row no-margin">
+                                                   <div class="col-md-5 no-padding">
+                                                       <h3>MS OFFICE</h3>
+                                                    </div>
+                                                    <div class="col-md-7 no-padding">
+                                                        <div class="progress">
+                                                            <div class="progress-bar bg-waring progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%"></div>
+                                                        </div>
+                                                    </div>
+                                                   </div>
+                                                   
+                                                   <div class="row no-margin">
+                                                   <div class="col-md-5 no-padding">
+                                                       <h3>HTML</h3>
+                                                    </div>
+                                                    <div class="col-md-7 no-padding">
+                                                        <div class="progress">
+                                                            <div class="progress-bar bg-waring progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%"></div>
+                                                        </div>
+                                                    </div>
+                                                   </div>
+                                                   
+                                                   <div class="row no-margin ">
+                                                       <div class="col-md-12 heading-skills no-padding">
+                                                           <h3>INTEREST</h3>
+                                                       </div>
+                                                       
+                                                       <div class="col-md-4 intetst-box">
+                                                           <div class="intetst-icons">
+                                                               <i class="fa fa-plane"></i>
+                                                               <br>
+                                                               <br>
+                                                               <h5>TRAVEL</h5>
+                                                           </div>
+                                                       </div>
+                                                       
+                                                       <div class="col-md-4 intetst-box">
+                                                           <div class="intetst-icons">
+                                                               <i class="fa fa-headphones"></i>
+                                                               <br>
+                                                               <br>
+                                                               <h5>MUSIC</h5>
+                                                           </div>
+                                                       </div>
+                                                       
+                                                       <div class="col-md-4 intetst-box">
+                                                           <div class="intetst-icons">
+                                                               <i class="fa fa-file-video-o"></i>
+                                                               <br>
+                                                               <br>
+                                                               <h5>VIDEO</h5>
+                                                           </div>
+                                                       </div>
+                                                       
+                                                       <div class="col-md-4 intetst-box">
+                                                           <div class="intetst-icons">
+                                                               <i class="fa fa-bicycle"></i>
+                                                               <br>
+                                                               <br>
+                                                               <h5>CYCLING</h5>
+                                                           </div>
+                                                       </div>
+                                                       
+                                                       <div class="col-md-4 intetst-box">
+                                                           <div class="intetst-icons">
+                                                               <i class="fa fa-futbol-o"></i>
+                                                               <br>
+                                                               <br>
+                                                               <h5>FUTSAL</h5>
+                                                           </div>
+                                                       </div>
+                                                       
+                                                       <div class="col-md-4 intetst-box">
+                                                           <div class="intetst-icons">
+                                                               <i class="fa fa-newspaper-o"></i>
+                                                               <br>
+                                                               <br>
+                                                               <h5>READING</h5>
+                                                           </div>
+                                                       </div>
+                                                   </div>  
+                                           </div>
+                                                       <div class="education-right">
+                                                           <div class="row no-margin">
+                                                               <div class="col-md-12 heading-skills no-padding">
+                                                                 <h3>EDUCATION</h3>
+                                                                 <div class="ex-box">
+                                                                     <h2>2014-2018</h2>
+                                                                     <h5>TELKOM UNIVERSITY</h5>
+                                                                     <p>
+                                                                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus aut ex, numquam asperiores. Ut incidunt id illum, at voluptatem blanditiis quo. Nisi, exercitationem dolor aperiam, officiis repellat in autem suscipit!
+                                                                     </p>
+                                                                 </div>
+                                                                 
+                                                                  <div class="ex-box">
+                                                                     <h2>2011-2014</h2>
+                                                                     <h5>SMK TELKOM S.P </h5>
+                                                                     <p>
+                                                                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus aut ex, numquam asperiores. Ut incidunt id illum, at voluptatem blanditiis quo. Nisi, exercitationem dolor aperiam, officiis repellat in autem suscipit!
+                                                                     </p>
+                                                                 </div>
+                                                                 
+                                                               </div>
+                                                           </div>
+                                                       </div>
+                                                       
+                                                       <div class="address-qr-right">
+                                                           <div class="row no-margin">
+                                                               <div class="col-md-5 no-padding">
+                                                                   <div class="qr-box">
+                                                                       <img src="img/qr.png" alt="">
+                                                                   </div>
+                                                               </div>
+                                                               
+                                                               <div class="col-md-7 no-padding">
+                                                                   <div class="addres-right-box">
+                                                                       <ul>
+                                                                           <li>
+                                                                               <i class="fa fa-phone-square"></i>
+                                                                               <p>
+                                                                                   +62 819 4360 0164
+                                                                               </p>
+                                                                           </li>
+                                                                           <li>
+                                                                               <i class="fa fa-envelope-o"></i>
+                                                                               <p>
+                                                                                 sarippudin1511@gmail.com
+                                                                               </p>
+                                                                           </li>
+                                                                            <li>
+                                                                               <i class="fa fa-map-marker"></i>
+                                                                               <p>
+                                                                                  Jurang Mangu Timur Pondok Aren, Tangerang Selatan
+                                                                               </p>
+                                                                           </li>
+                                                                       </ul>
+                                                                   </div>
+                                                               </div>
+                                                               
+                                                           </div>
+                                                       </div>
+                                                       
+                                     </div>
+                             </div>
+                  </div>
+                 
+              </section>
+               
+               <section id="portfolio">
+                   <p>
+                       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente nam asperiores nobis aliquid natus illum quos vel quod soluta, perspiciatis. Blanditiis aut expedita quae, labore eum. Excepturi consequatur distinctio quo.
+                   </p>
+                   
+               </section>
+                
+                  <section id="contact">
+                   <p>
+                       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente nam asperiores nobis aliquid natus illum quos vel quod soluta, perspiciatis. Blanditiis aut expedita quae, labore eum. Excepturi consequatur distinctio quo.
+                   </p>
+                   
+               </section>  
+                      
+        </section>
+        
+        <footer>
+            <div class="copyright">Copyright &copy; 2020 Saripudin</div>
+        </footer>
+        
+        
+    </section>
+    
+    
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.easytabs/3.2.0/jquery.easytabs.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/1.5.25/jquery.isotope.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.caroufredsel/6.2.1/jquery.carouFredSel.packed.js"></script>
+</body>    
+</html>
